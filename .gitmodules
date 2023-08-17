@@ -1,0 +1,6 @@
+[submodule "RepoSystemUI"]
+	path = RepoSystemUI
+	url = https://github.com/Akthar-Farvees/Student-Registration-System.git
+[submodule "RepoSystemAPI"]
+	path = RepoSystemAPI
+	url = https://github.com/Akthar-Farvees/StudentRegistrationSystemAPI.git
